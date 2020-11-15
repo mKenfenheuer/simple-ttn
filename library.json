@@ -18,7 +18,7 @@
     "homepage": "https://github.com/mKenfenheuer/simple-ttn",
     "dependencies": [
         {
-            "name": "external-repo",
+            "name": "MCCI LoRaWAN LMIC library",
             "version": "https://github.com/mcci-catena/arduino-lmic"
         }
     ],
