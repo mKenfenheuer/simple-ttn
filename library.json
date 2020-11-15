@@ -1,0 +1,27 @@
+{
+    "name": "Simple-TTN",
+    "version": "0.1.0",
+    "description": "A simple TTN library, wrapping LMIC function calls for easy handling.",
+    "keywords": "TTN,thethingsnetwork,lmic,lorawan",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mKenfenheuer/simple-ttn"
+    },
+    "authors": [
+        {
+            "name": "Maximilian Kenfenheuer",
+            "email": "maximilian@mkenfenheuer.de",
+            "maintainer": true
+        }
+    ],
+    "license": "GNU GPLv3.0",
+    "homepage": "https://github.com/mKenfenheuer/simple-ttn",
+    "dependencies": [
+        {
+            "name": "external-repo",
+            "version": "https://github.com/mcci-catena/arduino-lmic"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
